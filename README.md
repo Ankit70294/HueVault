@@ -1,4 +1,4 @@
-HueVault - iOS Color Code Generator
+**HueVault - iOS Color Code Generator**
 
 Overview
 HueVault is an iOS application designed to generate random hex color codes, display them on interactive cards, and manage their storage locally and in Firebase. This project fulfills the requirements of an iOS assignment, demonstrating offline persistence, online synchronization, and connectivity awareness.
